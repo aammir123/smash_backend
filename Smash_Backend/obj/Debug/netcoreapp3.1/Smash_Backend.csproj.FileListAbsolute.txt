@@ -1,0 +1,204 @@
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.exe
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.deps.json
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.runtimeconfig.json
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.runtimeconfig.dev.json
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.pdb
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.csproj.AssemblyReference.cache
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.AssemblyInfoInputs.cache
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.AssemblyInfo.cs
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.csproj.CoreCompileInputs.cache
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\staticwebassets\Smash_Backend.StaticWebAssets.Manifest.cache
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.RazorTargetAssemblyInfo.cache
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.dll
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.pdb
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.genruntimeconfig.cache
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.csproj.CopyComplete
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.exe
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.deps.json
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.runtimeconfig.json
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.runtimeconfig.dev.json
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.pdb
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.csproj.AssemblyReference.cache
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.AssemblyInfoInputs.cache
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.AssemblyInfo.cs
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.csproj.CoreCompileInputs.cache
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\staticwebassets\Smash_Backend.StaticWebAssets.Manifest.cache
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.RazorTargetAssemblyInfo.cache
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.csproj.CopyComplete
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.dll
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.pdb
+C:\Users\amir.asghar\Downloads\Smash_Backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.genruntimeconfig.cache
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.exe
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.deps.json
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.runtimeconfig.json
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.runtimeconfig.dev.json
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Smash_Backend.pdb
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New folder\smash_backend\Smash_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.csproj.AssemblyReference.cache
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.AssemblyInfoInputs.cache
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.AssemblyInfo.cs
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.csproj.CoreCompileInputs.cache
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\staticwebassets\Smash_Backend.StaticWebAssets.Manifest.cache
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.RazorTargetAssemblyInfo.cache
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.csproj.CopyComplete
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.dll
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.pdb
+D:\New folder\smash_backend\Smash_Backend\obj\Debug\netcoreapp3.1\Smash_Backend.genruntimeconfig.cache

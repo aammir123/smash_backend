@@ -1,0 +1,244 @@
+{
+	"info": {
+		"_postman_id": "872e8741-35f1-452a-96fb-ea4fc1b561ba",
+		"name": "SmashApis",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13178491"
+	},
+	"item": [
+		{
+			"name": "Toll Tax",
+			"item": [
+				{
+					"name": "/TollTax/Entry",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "client_id",
+								"value": "jsdfjldskfjdslkfj",
+								"type": "text"
+							},
+							{
+								"key": "client_secret",
+								"value": "ioisdofiodsfnxasccxzmnmn",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"interchangeId\": 0,\n  \"numberPlate\": \"\",\n  \"transactionDateTime\": \"2022-12-06T14:03:08.544Z\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44331/TollTax/Entry",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44331",
+							"path": [
+								"TollTax",
+								"Entry"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Success",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"interchangeId\": -21380109,\n  \"numberPlate\": \"Lorem veniam ut mollit\",\n  \"transactionDateTime\": \"1958-06-23T14:03:08.544Z\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseUrl}}/TollTax/Entry",
+									"host": [
+										"{{baseUrl}}"
+									],
+									"path": [
+										"TollTax",
+										"Entry"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "text",
+							"header": [
+								{
+									"key": "Content-Type",
+									"value": "text/plain"
+								}
+							],
+							"cookie": [],
+							"body": ""
+						}
+					]
+				},
+				{
+					"name": "/TollTax/Exit",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "client_id",
+								"value": "jsdfjldskfjdslkfj",
+								"type": "text"
+							},
+							{
+								"key": "client_secret",
+								"value": "ioisdofiodsfnxasccxzmnmn",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"interchangeId\": 8,\n  \"numberPlate\": \"LED-9151\",\n  \"transactionDateTime\": \"2022-12-06T14:03:08.544Z\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44331/TollTax/Exit",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44331",
+							"path": [
+								"TollTax",
+								"Exit"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Success",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"interchangeId\": -21380109,\n  \"numberPlate\": \"Lorem veniam ut mollit\",\n  \"transactionDateTime\": \"1958-06-23T14:03:08.544Z\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseUrl}}/TollTax/Exit",
+									"host": [
+										"{{baseUrl}}"
+									],
+									"path": [
+										"TollTax",
+										"Exit"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "text",
+							"header": [
+								{
+									"key": "Content-Type",
+									"value": "text/plain"
+								}
+							],
+							"cookie": [],
+							"body": ""
+						}
+					]
+				},
+				{
+					"name": "/TollTax/Interchanges",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "client_id",
+								"value": "jsdfjldskfjdslkfj",
+								"type": "text"
+							},
+							{
+								"key": "client_secret",
+								"value": "ioisdofiodsfnxasccxzmnmn",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{baseUrl}}/TollTax/Interchanges",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"TollTax",
+								"Interchanges"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Success",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{baseUrl}}/TollTax/Interchanges",
+									"host": [
+										"{{baseUrl}}"
+									],
+									"path": [
+										"TollTax",
+										"Interchanges"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "text",
+							"header": [
+								{
+									"key": "Content-Type",
+									"value": "text/plain"
+								}
+							],
+							"cookie": [],
+							"body": ""
+						}
+					]
+				}
+			]
+		}
+	],
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "/",
+			"type": "string"
+		}
+	]
+}
